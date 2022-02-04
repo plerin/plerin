@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm kihoon
-- 🤔 I'm Developer with thinking
-- 🧭 Preparing next step of chaning job to Data Engineer
+- 😄 I'm Developer grown one step further than yesterday
+- 🧭 Preparing next step of changing job to Data Engineer
 <!--
 **plerin/plerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
