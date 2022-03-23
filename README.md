@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm kihoon
 - 😄 I'm Developer grown one step further than yesterday
-- 🧭 Preparing next step of changing job to Data Engineer
 
 ### Career
 2018.03 ~ 2021.10 : Qbicware _ Server_Management, Data_Building
+2022.03 ~ : Styleshare _ Data-Engineer
 
 <!--
 **plerin/plerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
