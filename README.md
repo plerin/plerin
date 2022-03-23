@@ -2,7 +2,7 @@
 - 😄 I'm Developer grown one step further than yesterday
 
 ### Career
-2018.03 ~ 2021.10 : Qbicware _ Server_Management, Data_Building
+2018.03 ~ 2021.10 : Qbicware _ Server_Management, Data_Building.   
 2022.03 ~ : Styleshare _ Data-Engineer
 
 <!--
