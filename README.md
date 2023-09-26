@@ -3,7 +3,8 @@
 
 ### Career
 2018.03 ~ 2021.10 : Qbicware _ Server_Management, Data_Building.   
-2022.03 ~ : Styleshare _ Data-Engineer
+2022.03 ~ 2022.08 : Styleshare _ Data-Engineer
+2022.08 ~ : Musinsa _ Data-Engineer
 
 <!--
 **plerin/plerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
